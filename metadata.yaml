@@ -1,5 +1,5 @@
 _repo: Four-and-Twenty-Fairy-Tales-Selected-from-Those-of-Perrault-and-Other-Popular-Writers_52719
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "4 and 20 Fairy Tales\r\nSelected from Those of Perrault, and Other\
   \ Popular Writers"
 contributor:
@@ -66,13 +66,13 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/49335
   engineers:
   - agent_name: Dalziel, George
-    birthdate: &id001 1815
+    birthdate: 1815
     deathdate: 1902
     gutenberg_agent_id: '32424'
     url: http://www.gutenberg.org/2009/agents/32424
   - agent_name: Dalziel, Edward
     birthdate: 1817
-    deathdate: &id002 1905
+    deathdate: 1905
     gutenberg_agent_id: '32392'
     url: http://www.gutenberg.org/2009/agents/32392
   illustrators:
@@ -83,12 +83,12 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/47009
   - agent_name: Corbould, Edward Henry
     alias: Corbould, E. H. (Edward Henry)
-    birthdate: *id001
-    deathdate: *id002
+    birthdate: 1815
+    deathdate: 1905
     gutenberg_agent_id: '43500'
     url: http://www.gutenberg.org/2009/agents/43500
   - agent_name: Harvey, William
-    birthdate: &id003 1796
+    birthdate: 1796
     deathdate: 1866
     gutenberg_agent_id: '25917'
     url: http://www.gutenberg.org/2009/agents/25917
@@ -99,11 +99,16 @@ contributor:
     - Planché, John Robinson
     - Planché, James Robinson
     - Planche, J. R. (James Robinson)
-    birthdate: *id003
+    birthdate: 1796
     deathdate: 1880
     gutenberg_agent_id: '47013'
     url: http://www.gutenberg.org/2009/agents/47013
+covers:
+- cover_type: archival
+  image_path: 52719-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52719#Four-and-Twenty-Fairy-Tales-Selected-from-Those-of-Perrault-and-Other-Popular-Writers
 gutenberg_issued: '2016-08-04'
 gutenberg_type: Text
 identifiers:
