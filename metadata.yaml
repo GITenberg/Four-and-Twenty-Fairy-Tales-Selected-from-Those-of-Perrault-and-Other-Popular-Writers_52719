@@ -1,0 +1,131 @@
+_repo: Four-and-Twenty-Fairy-Tales-Selected-from-Those-of-Perrault-and-Other-Popular-Writers_52719
+_version: 0.0.1
+alternative_title: "4 and 20 Fairy Tales\r\nSelected from Those of Perrault, and Other\
+  \ Popular Writers"
+contributor:
+  contributors:
+  - agent_name: Murat, Henriette-Julie de Castelnau, comtesse de
+    aliases:
+    - De Castelnau, Henriette-Julie, comtesse de Murat
+    - De Murat, Henriette-Julie de Castelnau, comtesse
+    - Castelnau, Henriette-Julie de, comtesse de Murat
+    birthdate: 1670
+    deathdate: 1716
+    gutenberg_agent_id: '47002'
+    url: http://www.gutenberg.org/2009/agents/47002
+  - agent_name: Leprince de Beaumont, Jeanne-Marie
+    aliases:
+    - Beaumont, Madame Leprince de (Jeanne-Marie Leprince)
+    - Le Prince de Beaumont, Madame (Jeanne-Marie)
+    - De Beaumont, Madame Leprince (Jeanne-Marie Leprince)
+    - Leprince de Beaumont, Madame (Jeanne-Marie)
+    - Prince de Beaumont, Madame Le (Jeanne-Marie)
+    birthdate: 1711
+    deathdate: 1780
+    gutenberg_agent_id: '31518'
+    url: http://www.gutenberg.org/2009/agents/31518
+    wikipedia: http://en.wikipedia.org/wiki/Jeanne-Marie_Leprince_de_Beaumont
+  - agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+  - agent_name: Caylus, Anne Claude Philippe, comte de
+    aliases:
+    - Tubières de Grimoard de Pestels de Lévi, Anne-Claude-Philippe de, comte de Caylus
+    - Caylus, A.-C.-P. (Anne-Claude-Philippe), comte de
+    - Thubières, Anne Claude Philippe de, comte de Caylus
+    - Pestels de Lévis de Tubières-Grimoard, Anne-Claude-Philippe de, comte de Caylus
+    - Lévis de Tubières-Grimoard, Anne-Claude-Philippe de Pestels de, comte de Caylus
+    - Tubières-Grimoard, Anne-Claude-Philippe de Pestels de Lévis de, comte de Caylus
+    - Levis de Tubieres-Grimoard, Anne-Claude-Philippe de Pestels de, comte de Caylus
+    birthdate: 1692
+    deathdate: 1765
+    gutenberg_agent_id: '49334'
+    url: http://www.gutenberg.org/2009/agents/49334
+  - agent_name: Caumont de La Force, Charlotte Rose de
+    aliases:
+    - La Force, Charlotte Rose de Caumont de
+    - Force, Charlotte Rose de Caumont de La
+    - Caumont, Charlotte Rose de
+    - De La Force, Charlotte Rose de Caumont
+    - Caumont La Force, Charlotte-Rose de
+    deathdate: 1724
+    gutenberg_agent_id: '49333'
+    url: http://www.gutenberg.org/2009/agents/49333
+  - agent_name: Lubert, Mlle de
+    aliases:
+    - Lubert, Mademoiselle de
+    - B. de S., Monsieur
+    - Lubert, Marguerite de
+    - De Lubert, Mlle
+    gutenberg_agent_id: '49335'
+    url: http://www.gutenberg.org/2009/agents/49335
+  engineers:
+  - agent_name: Dalziel, George
+    birthdate: &id001 1815
+    deathdate: 1902
+    gutenberg_agent_id: '32424'
+    url: http://www.gutenberg.org/2009/agents/32424
+  - agent_name: Dalziel, Edward
+    birthdate: 1817
+    deathdate: &id002 1905
+    gutenberg_agent_id: '32392'
+    url: http://www.gutenberg.org/2009/agents/32392
+  illustrators:
+  - agent_name: Godwin, James
+    alias: Godwin, J. (James)
+    deathdate: 1876
+    gutenberg_agent_id: '47009'
+    url: http://www.gutenberg.org/2009/agents/47009
+  - agent_name: Corbould, Edward Henry
+    alias: Corbould, E. H. (Edward Henry)
+    birthdate: *id001
+    deathdate: *id002
+    gutenberg_agent_id: '43500'
+    url: http://www.gutenberg.org/2009/agents/43500
+  - agent_name: Harvey, William
+    birthdate: &id003 1796
+    deathdate: 1866
+    gutenberg_agent_id: '25917'
+    url: http://www.gutenberg.org/2009/agents/25917
+  translator:
+    agent_name: Planché, J. R. (James Robinson)
+    aliases:
+    - Planché, I. R.
+    - Planché, John Robinson
+    - Planché, James Robinson
+    - Planche, J. R. (James Robinson)
+    birthdate: *id003
+    deathdate: 1880
+    gutenberg_agent_id: '47013'
+    url: http://www.gutenberg.org/2009/agents/47013
+description: ''
+gutenberg_issued: '2016-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: 'Preface -- Charles Perrault: Blue Beard. The Sleeping Beauty in
+  the Wood. Master Cat; or, Puss in Boots. Cinderella ; or, the Little Glass Slipper.
+  Riquet with the Tuft. Little Thumbling -- The Countess de Murat: Perfect Love. Anguillette.
+  Young and Handsome. The Palace of Revenge. The Prince of Leaves. The Fortunate Punishment
+  -- Mademoiselle de la Force: Fairer than a Fairy. The Good Woman -- Madame de Villeneuve:
+  The Story of Beauty and the Beast -- The Count de Caylus: Princess Minute and King
+  Floridor. The Impossible Enchantment. Bleuette and Coquelicot -- Mademoiselle de
+  Lubert: Princess Camion. Princess Lionette and Prince Coquerico. Prince Désir --
+  Madame Leprince de Beaumont: Prince Chéri. The Widow and Her Two Daughters. Prince
+  Fatal and Prince Fortuné -- Appendix.'
+title: "Four and Twenty Fairy Tales\r\nSelected from Those of Perrault, and Other\
+  \ Popular Writers"
+url: http://www.gutenberg.org/ebooks/52719
